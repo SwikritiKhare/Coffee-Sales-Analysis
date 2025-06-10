@@ -36,7 +36,9 @@ The East region is the second-strongest, while Central and South regions show si
 Product Performance (Top 5 & Bottom 5):
 
 The **Top 5** Products (e.g., "Smartwatch X", "Laptop Pro") are high-value items that are major revenue drivers and should be prioritized for stock and promotion.
+
 The **Bottom 5** Products (e.g., "Basic Pen Set") contribute minimal sales, suggesting they could be candidates for inventory optimization or removal to free up resources.
+
 **Strategic Recommendations**
 
 Based on these insights, key actions could include:
