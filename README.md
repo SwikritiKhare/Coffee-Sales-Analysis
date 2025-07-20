@@ -6,47 +6,46 @@
 **☕ Key Insights from Coffee Sales Dashboard**
 
 
-**Total Sales:** $515,671.00
+📊 Overview:
+This Power BI dashboard provides a comprehensive analysis of Starbucks' sales and performance across different locations and time periods. It offers insights into revenue trends, profit growth, product performance, peak sales times, and store-wise contributions to business success.
 
-**Total Orders:** 12,500
+🧩 Key Dashboard Components:
+📈 Revenue & Profit Analysis (By Month)
 
-**Average Order Value:** $41.25
+Revenue peaked in June at $1,66,485.88, exceeding the target of $1,31,542.82.
 
-**Profit:** $103,134.20
+Revenue KPI stands at 127%, indicating excellent overperformance.
 
-**Sales Trend by Month:**
+Profit has also shown consistent month-over-month growth, reaching $39,676.33 in June.
 
-Sales exhibit a significant peak in November, suggesting strong seasonal demand or successful promotional campaigns during that month.
-Sales are generally stable throughout the year, with a noticeable dip in February. Understanding the drivers behind these monthly fluctuations is crucial for future planning.
+📍 Store Performance
 
-**Sales by Region:**
+Filters for three store locations: Astoria, Hell’s Kitchen, and Lower Manhattan.
 
-The West region is the dominant sales driver, contributing over $200K, making it the primary market.
-The East region is the second-strongest, while Central and South regions show significantly lower sales, indicating potential areas for market expansion or targeted initiatives.
+Enables localized performance analysis.
 
-**Sales by Product Category:**
+📆 Busiest Day
 
-"Clothing" and "Electronics" are the top-performing categories, accounting for the largest share of sales. This suggests these are core product strengths.
-"Beauty" and "Food" are the lowest contributors, pointing to areas that might need strategy reassessment (e.g., menu refresh, marketing boost, or potential discontinuation).
+Friday is the busiest day with 21,654 transactions, followed closely by Thursday and Sunday.
 
-**Sales by Payment Method:**
+🕒 Busiest Hour
 
-"Credit Card" is the overwhelmingly preferred payment method, underscoring the importance of seamless credit card processing and security.
-"Cash," "Debit Card," and "Digital Wallet" contribute smaller, but relatively similar, proportions.
-Product Performance (Top 5 & Bottom 5):
+Highest transaction volumes occur between 10 AM and 1 PM, with a peak at 12 PM (1,545 transactions).
 
-The **Top 5** Products (e.g., "Smartwatch X", "Laptop Pro") are high-value items that are major revenue drivers and should be prioritized for stock and promotion.
+☕ Coffee Product Performance
 
-The **Bottom 5** Products (e.g., "Basic Pen Set") contribute minimal sales, suggesting they could be candidates for inventory optimization or removal to free up resources.
+Gourmet brewed coffee is the most sold product with:
 
-**Strategic Recommendations**
+25,973 units
 
-Based on these insights, key actions could include:
+Revenue: $70,034.60
 
-**Maximize Seasonal Peaks:** Analyze November's success factors to replicate strategies during similar periods.
+Barista Espresso and Organic brewed coffee follow in popularity and revenue.
 
-**Regional Growth Strategies:** Develop targeted marketing and sales plans for underperforming Central and South regions.
+🧺 Branded Product Performance
 
-**Optimize Product Portfolio:** Invest further in top-performing categories, while strategically reviewing and potentially revamping or discontinuing low-performing categories and products.
+Non-coffee items like Housewares and Clothing contribute modestly:
 
-**Enhance Payment Processing:** Ensure robust infrastructure for credit card transactions and explore incentives for other digital payment methods.
+Housewares revenue: $7,444.00
+
+Clothing revenue: $6,163.00
