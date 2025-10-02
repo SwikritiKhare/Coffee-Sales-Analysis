@@ -49,3 +49,4 @@ Non-coffee items like Housewares and Clothing contribute modestly:
 Housewares revenue: $7,444.00
 
 Clothing revenue: $6,163.00
+<img src="" width=800>
